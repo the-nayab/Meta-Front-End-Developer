@@ -92,7 +92,8 @@
 
 ## Proof of Completion
 
-- Not Available
+</b><a href="https://www.coursera.org/account/accomplishments/verify/CH2GW4YJHB3F"><b>Coding Interview Preparation</b></a>
+</b><a href="https://www.coursera.org/account/accomplishments/verify/Q6HJA9JJ624D"><b>Coding Interview Preparation</b></a>
 
 ## See also
 
