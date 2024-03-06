@@ -91,9 +91,12 @@
 </details>
 
 ## Proof of Completion
-
-</b><a href="https://www.coursera.org/account/accomplishments/verify/CH2GW4YJHB3F"><b>Coding Interview Preparation</b></a>
-</b><a href="https://www.coursera.org/account/accomplishments/verify/Q6HJA9JJ624D"><b>Coding Interview Preparation</b></a>
+<details>
+</b><a href="https://www.coursera.org/account/accomplishments/verify/CH2GW4YJHB3F"><b>React Basics</b></a>
+</details>
+<deatils>
+</b><a href="https://www.coursera.org/account/accomplishments/verify/Q6HJA9JJ624D"><b>Advanced React</b></a>
+</deatils>
 
 ## See also
 
